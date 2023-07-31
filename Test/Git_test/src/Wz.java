@@ -5,7 +5,7 @@ import java.net.Socket;
 
 public class Wz{
     public static void main(String[] args) throws IOException, InterruptedException {
-        System.out.println("hello nanning");
+        System.out.println("hello world");
         String s="/home/wjs/12.png";
         File file=new File(s);
         String name=file.getName();
